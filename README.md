@@ -1,6 +1,6 @@
 # search.el
 
-This is yet another google2.el [http://www.bookshelf.jp/elc/google2.el]
+This is yet another <a href="http://www.bookshelf.jp/elc/google2.el" target="_blank">google2.el</a>
 
 ## Installation
 
