@@ -8,7 +8,7 @@ Add search.el to your load path
 
 Add your .emacs
 
- (load "search")
+>(load "search")
 
 
 ## Usage
