@@ -4,7 +4,7 @@ This is yet another google2.el [http://www.bookshelf.jp/elc/google2.el]
 
 ## Installation
 
-Add kokopelli.el to your load path
+Add search.el to your load path
 Add your .emacs
 
 (load "search")
