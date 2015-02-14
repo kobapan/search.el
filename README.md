@@ -8,7 +8,7 @@ Add search.el to your load path
 
 Add your .emacs
 
-(load "search")
+ (load "search")
 
 
 ## Usage
@@ -19,7 +19,7 @@ M-x search
 
 Type search engine name or just enter
 
-e.g. google, php-manual, amazon, hp-manual
+ e.g. google, php-manual, amazon, hp-manual
 
 Edit key words if necessary
 
