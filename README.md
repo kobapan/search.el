@@ -19,7 +19,7 @@ M-x search
 
 Type search engine name or just enter
 
- e.g. google, php-manual, amazon, hp-manual
+>e.g. google, php-manual, amazon, hp-manual
 
 Edit key words if necessary
 
