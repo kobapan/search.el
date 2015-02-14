@@ -28,4 +28,6 @@ Edit key words if necessary
 
 If you want to change default search engine
 
-edit (defcustom default-engine "yahoo"
+edit here
+
+>(defcustom default-engine "yahoo"
